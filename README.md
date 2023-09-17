@@ -1,5 +1,8 @@
 # Vue coin exchange, course by platzi
 
+## Live app
+https://vue-training-coin-exchange.netlify.app/
+
 ## Project setup
 ```
 npm install
