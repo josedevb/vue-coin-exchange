@@ -1,4 +1,4 @@
-# platzi-exchange
+# Vue coin exchange, course by platzi
 
 ## Project setup
 ```
